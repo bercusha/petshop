@@ -1,0 +1,92 @@
+[
+    {
+        "test_name": "test_pet.py::test_add_new_pet",
+        "result": "Passed",
+        "duration": "733 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_pet.py::test_find_pet_by_id",
+        "result": "Passed",
+        "duration": "616 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_pet.py::test_upd_pet",
+        "result": "Passed",
+        "duration": "682 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_pet.py::test_find_pet_by_status",
+        "result": "Passed",
+        "duration": "621 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_pet.py::test_delete_pet",
+        "result": "Passed",
+        "duration": "00:00:01",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_store.py::test_place_order",
+        "result": "Passed",
+        "duration": "640 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_store.py::test_find_order_by_id",
+        "result": "Passed",
+        "duration": "601 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_store.py::test__no_find_order_by_id",
+        "result": "Passed",
+        "duration": "838 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_store.py::test_delete_order",
+        "result": "Passed",
+        "duration": "00:00:02",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_store.py::test_get_inventory",
+        "result": "Passed",
+        "duration": "770 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_user.py::test_create_users_with_array",
+        "result": "Passed",
+        "duration": "627 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_user.py::test_create_users_with_list",
+        "result": "Passed",
+        "duration": "724 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_user.py::test_get_user_by_username",
+        "result": "Passed",
+        "duration": "617 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_user.py::test_update_user",
+        "result": "Passed",
+        "duration": "634 ms",
+        "log": "No log output captured."
+    },
+    {
+        "test_name": "test_user.py::test_delete_user",
+        "result": "Passed",
+        "duration": "617 ms",
+        "log": "No log output captured."
+    }
+]
