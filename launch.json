@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Тестировать test_pet.py",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/test_pet.py",
+        "args": ["-s"],
+        "console": "integratedTerminal"
+      },
+      {
+        "name": "Тестировать test_store.py",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/test_store.py",
+        "args": ["-s"],
+        "console": "integratedTerminal"
+      },
+      {
+        "name": "Тестировать test_user.py",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/test_user.py",
+        "args": ["-s"],
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  
